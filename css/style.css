@@ -1,0 +1,32 @@
+.center{
+    margin: auto;
+    border: 3px rgb(233, 230, 230);
+    padding: 10px ;
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input[ type=number]{
+    width: 100%;
+    padding: 10px 30px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: rgb(245, 189, 158);
+    color: black;
+    background-image: entr;
+}
+input[type=submit]{
+    background-color: orangered;
+    padding: 10px 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 20px ;
+    color: white;
+}
